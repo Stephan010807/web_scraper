@@ -1,0 +1,134 @@
+[
+  {
+    "url": "https://www.rae-strake.de/kontakt/",
+    "company_name": "Anfahrt Impressum Menu Blog Kontakt Anfahrt Impressum",
+    "contact_name": "Rechtsanwalte Dr. Strake & Strake Paderborn Zum Inhalt",
+    "email": "kontakt@rae-strake.de",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://eikel-partner.de/ueber-uns-wir-bieten-schutz-vor-konkurrenz/",
+    "company_name": "Anwaltskanzlei EIKEL UND PARTNER Markenanwalt Designanwalt Zum Hauptinhalt springen Startseite Uber uns Arbeitsfelder Aktuelles Unser Team Kontakt Stellenanzeigen Impressum",
+    "contact_name": ": +49 (0",
+    "email": "info@eikel-partner.de",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://www.wessel-plueckebaum.de/kontakt/",
+    "company_name": "Rechtsanwalte Aktuelles Kontakt",
+    "contact_name": "Weg zu",
+    "email": "kanzlei@anwalt-paderborn.de",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://www.warm-rechtsanwaelte.de/kontaktformular",
+    "company_name": "Rechtsanwalte Paderborn HOME SCHWERPUNKTE Arbeitsrecht fur Arbeitgeber Arbeitsrecht",
+    "contact_name": "Warm & Kollegen",
+    "email": "kanzlei@warm-rechtsanwaelte.de",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://www.rehmann.de/kontakt/",
+    "company_name": "Rechtsanwalte Rechtsanwalt & Notar",
+    "contact_name": "Kroger,",
+    "email": "ra@rehmann.de",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://ashkan-rechtsanwalt-arbeitsrecht-paderborn.de/anfahrt-kontakt/",
+    "company_name": "ANFAHRT & KONTAKT Ashkan STARTSEITE",
+    "contact_name": "ERFAHRUNG SPEZIALISIERUNG",
+    "email": "ashkan@ra-ashkan.de",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://www.anwalt-paderborn.com/kontakt/",
+    "company_name": "Rechtsanwalte in Paderborn Fachanwalt fur",
+    "contact_name": "05251 87897",
+    "email": "kontakt@anwalt-paderborn.com",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://rae-schaefers.de/#kontakt",
+    "company_name": "Anwalte Fachbereiche Notar Navigation uberspringen Service-Telefon 05251/1077",
+    "contact_name": "Rechtsanwalt Schafers Paderborn",
+    "email": "info@rae-schaefers.de",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://steinertstrafrecht.com/kontakt/",
+    "company_name": "Rechtsanwalte Schwerpunkte Kosten FAQ Kontakt",
+    "contact_name": "| Kontakt",
+    "email": "info@steinertstrafrecht.com",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://kanzlei-am-rosentor.de",
+    "company_name": "Rosentor | Notar & Rechtsanwalt",
+    "contact_name": "in Paderborn Menu",
+    "email": "zentrale@kanzlei-am-rosentor.de",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.9
+    }
+  },
+  {
+    "url": "https://www.diedigitalekanzlei.com",
+    "company_name": "Anfrage A14ber",
+    "contact_name": "WhatsApp! Startseite Mandantenaufnahme Termin",
+    "email": "N/A",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.5
+    }
+  },
+  {
+    "url": "https://www.le-mans-wall.de",
+    "company_name": "Anwalte Karriere Kontakt",
+    "contact_name": "| effizient Kanzlei",
+    "email": "N/A",
+    "confidence": {
+      "company_name": 0.9,
+      "contact_name": 0.9,
+      "email": 0.5
+    }
+  }
+]

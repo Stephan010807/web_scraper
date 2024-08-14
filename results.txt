@@ -1,0 +1,42 @@
+CompanyInfo(url='https://www.diedigitalekanzlei.com/?gad_source=1&gbraid=0AAAAAqhmsX4vm4k2ag8H6Vn85LRhy8wCK&gclid=CjwKCAjwqre1BhAqEiwA7g9QhrPVJcIGs9l6ccXWRFlaWumStiDrqRGMPHCF9ELhpD8Gcket7TzOeRoCnMIQAvD_BwE', company_name='N/A', contact_name=('Schuldnerverzug ', 'Kinderbetreuungsanspruch'), email='N/A', confidence={'company_name': 0, 'contact_name': 0.6, 'email': 0})
+Confidence: {'company_name': 0, 'contact_name': 0.6, 'email': 0}
+
+CompanyInfo(url='https://www.anwalt-paderborn.de', company_name='N/A', contact_name=('Kooperationspartner ', 'Stellenangebote'), email='kanzlei@anwalt-paderborn.de', confidence={'company_name': 0, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://www.le-mans-wall.de', company_name='Mittelstandsmarketing ', contact_name=('Mattenklodt ', 'Partnerschaftsgesellschaft'), email='N/A', confidence={'company_name': 0.6, 'contact_name': 0.6, 'email': 0})
+Confidence: {'company_name': 0.6, 'contact_name': 0.6, 'email': 0}
+
+CompanyInfo(url='https://www.rae-strake.de', company_name='N/A', contact_name=('Rechtsgebieten ', 'Arbeitsrecht'), email='kontakt@rae-strake.de', confidence={'company_name': 0, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://eikel-partner.de/?gbraid=0AAAAADNX_0OG9RFzKY_N3Pp7tagHnFG8z&gclid=CjwKCAjwqre1BhAqEiwA7g9QhosZlEuIqTRI_VF3wHoPIxf-FV5KUK3f1RMjZj3RMPa06dDnvhhRrRoC3vQQAvD_BwE', company_name='Versicherung ', contact_name=('Strafverfahren ', 'Ordnungswidrigkeiten'), email='info@eikel-partner.de', confidence={'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://www.anwalt-paderborn.com', company_name='N/A', contact_name=('Datenschutzhinweise ', 'Facebook'), email='kontakt@anwalt-paderborn.com', confidence={'company_name': 0, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://rae-schaefers.de', company_name='N/A', contact_name=('Schafers ', 'Rechtsberatung'), email='info@rae-schaefers.de', confidence={'company_name': 0, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://kanzlei-am-rosentor.de', company_name='N/A', contact_name=('Unternehmensrecht ', 'Immobilien'), email='zentrale@kanzlei-am-rosentor.de', confidence={'company_name': 0, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://www.warm-rechtsanwaelte.de', company_name='Versicherung ', contact_name=('Schnittstellenorientierte ', 'Fallbearbeitung'), email='kanzlei@warm-rechtsanwaelte.de', confidence={'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://www.rehmann.de', company_name='Versicherung ', contact_name=('Jahren ', 'Betriebszugehorigkeit'), email='ra@rehmann.de', confidence={'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://ashkan-rechtsanwalt-arbeitsrecht-paderborn.de', company_name='Versicherung ', contact_name=('Arbeitsrechtskanzlei ', 'Ashkan'), email='ashkan@ra-ashkan.de', confidence={'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://steinertstrafrecht.com', company_name='Privatversicherung ', contact_name=('Kontakt ', 'Strafverteidiger'), email='kontakt@steinertstrafrecht.com', confidence={'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0.6, 'contact_name': 0.6, 'email': 0.7}
+
+CompanyInfo(url='https://www.le-mans-wall.de', company_name='Mittelstandsmarketing ', contact_name=('Mattenklodt ', 'Partnerschaftsgesellschaft'), email='N/A', confidence={'company_name': 0.6, 'contact_name': 0.6, 'email': 0})
+Confidence: {'company_name': 0.6, 'contact_name': 0.6, 'email': 0}
+
+CompanyInfo(url='https://rae-schaefers.de', company_name='N/A', contact_name=('Schafers ', 'Rechtsberatung'), email='info@rae-schaefers.de', confidence={'company_name': 0, 'contact_name': 0.6, 'email': 0.7})
+Confidence: {'company_name': 0, 'contact_name': 0.6, 'email': 0.7}
+
